@@ -1,5 +1,5 @@
 # GSAP - WDD 921
-![GreenSock](https://greensock.com/forums/topic/23482-animated-greensock-logo/)
+![GreenSock](https://1stwebdesigner.com/a-guide-to-understanding-gsap-javascript-animation/)
 
 ## Description
 
