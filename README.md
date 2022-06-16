@@ -1,5 +1,5 @@
 # GSAP - WDD 921
-![GreenSock](https://1stwebdesigner.com/a-guide-to-understanding-gsap-javascript-animation/)
+
 
 ## Description
 
