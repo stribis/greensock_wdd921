@@ -8,17 +8,17 @@ This repository only contains lesson material, other links and files can be foun
 
 
 ### Content:
-#### 01: Basics
+#### 01: Basics 🧱
 * Linking and using GSAP 
 * Repetition on linking order of JS files
 
-#### 02: Tween
+#### 02: Tween 🏃‍♂️
 * to()
 * from()
 * fromTo()
 * set()
 
-#### 03: Timelines
+#### 03: Timelines 🏃‍♀️🏃‍♂️
 * Defining timelines
 * Chaining tweens in timelines
 * Adding options to timelines
