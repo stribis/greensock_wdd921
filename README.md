@@ -1,4 +1,4 @@
-# GSAP - WDD 921
+# GreenSock Animation Platform - WDD 921 Lesson Material
 
 <img src="https://greensock.com/uploads/set_resources_5/84c1e40ea0e759e3f1505eb1788ddf3c_greensock-logo.svg">
 
