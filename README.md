@@ -7,9 +7,8 @@ Here you will find all the lesson material for the Greesock Animation Platform l
 This repository only contains lesson material, other links and files can be found in Canvas and Discord.
 
 
-### Content
-
-#### 01: Basics
+### Content:
+#### 01: Basics
 * Linking and using GSAP 
 * Repetition on linking order of JS files
 
