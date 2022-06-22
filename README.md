@@ -12,17 +12,17 @@ This repository only contains lesson material, other links and files can be foun
 #### 01: Basics 🧱
 * Linking and using GSAP 
 * Repetition on linking order of JS files
-  * 🔗 [GSAP Documentation]('https://greensock.com/docs/')
+  * 🔗 [GSAP Documentation](https://greensock.com/docs/)
 
 #### 02: Tween 🏃‍♂️
 * to()
 * from()
 * fromTo()
 * set()
-  * 🔗 [More about tweens]('https://greensock.com/docs/v3/GSAP/Tween')
+  * 🔗 [More about tweens](https://greensock.com/docs/v3/GSAP/Tween)
 
 #### 03: Timelines 🏃‍♀️🏃‍♂️
 * Defining timelines
 * Chaining tweens in timelines
 * Adding options to timelines
-  * 🔗 [More about timelines]('https://greensock.com/docs/v3/GSAP/Timeline')
+  * 🔗 [More about timelines](https://greensock.com/docs/v3/GSAP/Timeline)
