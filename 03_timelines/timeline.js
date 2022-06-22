@@ -10,6 +10,12 @@ tl.to('.mr-square', {
 })
 .to('.mr-square', {
   y: 500,
-  duration: 1,
-  autoAlpha: 0
+  autoAlpha: 0,
+  duration: 1
 })
+.from('.mrs-square', { 
+  y: 300,
+  x: 300,
+  autoAlpha: 0,
+  duration: 3
+ })
