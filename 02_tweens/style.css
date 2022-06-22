@@ -1,0 +1,22 @@
+.mr-circle, .mrs-circle {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 50%;
+  text-align: center;
+  color: white;
+}
+
+.mrs-square, .mr-square {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+.mr-square {
+  background-color: orange;
+}
+
+.mrs-circle {
+  background-color: purple;
+}

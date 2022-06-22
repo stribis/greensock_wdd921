@@ -5,31 +5,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Basics</title>
-  <style>
-    .mr-circle, .mrs-circle {
-      width: 100px;
-      height: 100px;
-      background-color: red;
-      border-radius: 50%;
-      text-align: center;
-      color: white;
-    }
-
-    .mrs-square, .mr-square {
-      width: 100px;
-      height: 100px;
-      background-color: blue;
-    }
-
-    .mr-square {
-      background-color: orange;
-    }
-
-    .mrs-circle {
-      background-color: purple;
-    }
-
-  </style>
+  <!-- Link your css before your js -->
+  <!-- This also applies to <style> tags -->
+  <link rel="stylesheet" href="style.css">
   <!-- Always link your library BEFORE your own JS -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js"></script>
   <!-- Remember to "defer" your animation file since it requires access to a loaded DOM -->
