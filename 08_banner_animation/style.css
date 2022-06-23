@@ -1,0 +1,47 @@
+/* Small Reset */
+*::before, *::after, * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Prepare the body */
+body {
+  background: #555;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Container for the Banner */
+.container  {
+  /* overflow: hidden; */
+  position: relative;
+  width: 380px;
+  height: 800px;
+  background: black;
+  border: 1px solid red;
+}
+
+/* Web Department Logo */
+
+.web {
+  position: absolute;
+  width: 100px;
+  top: 30%;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+}
+
+/* SAE Logo White */
+
+.sae {
+  position: absolute;
+  width: 200px;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+}

@@ -26,6 +26,25 @@ for ( let i = 0; i < numBoxes ; i++){
   // add width and height to box
   box.setAttribute('style', 'width: ' + boxSize + 'px; height: ' + boxSize + 'px;')
   // 4. append x in the body of the document
-  document.querySelector('body').appendChild(box)
+  document.querySelector('.container').appendChild(box)
   // 5 :) 
 }
+
+
+gsap.to('.box', {
+  opacity: 0,
+  background: 'rgb(112, 0, 112)',
+  borderRadius: '50%',
+  scale: 0.1,
+  ease: 'ease.inOut',
+  y: 33,
+  yoyo: true,
+  repeat: -1,
+  // duration: 3
+  stagger : {
+    amount: 2,
+    grid: 'auto',
+    from: 'center'
+  }
+
+})
