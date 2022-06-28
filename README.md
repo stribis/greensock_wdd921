@@ -52,3 +52,10 @@ This repository only contains lesson material, other links and files can be foun
 * Working with multiple elements
 * Stagger animation
   * 🔗 [More about stagger](https://greensock.com/docs/v3/Staggers)
+
+#### 07: Stagger Exercise
+* Create Elements using JS
+* Animate multiple elements at the same time using stagger
+
+#### 08 Banner Animation 
+* Practice for the banner animation Exam 
