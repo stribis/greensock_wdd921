@@ -16,7 +16,7 @@ body {
 
 /* Container for the Banner */
 .container  {
-  /* overflow: hidden; */
+  overflow: hidden;
   position: relative;
   width: 380px;
   height: 800px;
@@ -114,6 +114,7 @@ ul li {
   position: absolute;
   top: 45%;
   background: rgba(180, 180, 180, 0.66);
+
 }
 
 .cta a {
